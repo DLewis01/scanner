@@ -1,5 +1,5 @@
 # scanner
-html representation of a scanner gif I found
+html representation of this scanner gif I found
 
 ![scanner](./506199c94e9113a6dd7cd28ee1c367eb.gif)
 
